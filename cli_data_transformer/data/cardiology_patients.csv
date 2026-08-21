@@ -1,0 +1,16 @@
+id,name,region,amount,active
+1,John Whitfield,EU,4200.50,true
+2,Maria Solis,US,3100.00,true
+3,Tanvir Ahmed,APAC,0.00,false
+4,Elena Kovacs,EU,5875.25,true
+5,David Okafor,US,1250.00,false
+6,Priya Natarajan,APAC,6400.00,true
+7,Samuel Berg,EU,2200.75,true
+8,Yuki Tanaka,APAC,0.00,false
+9,Isabella Rossi,EU,3980.10,true
+10,Marcus Delgado,US,4500.00,true
+11,Fatima Al-Sayed,APAC,1800.00,false
+12,Nathan Foss,US,2999.99,true
+13,Chloe Bernard,EU,5100.00,true
+14,Ravi Chandran,APAC,750.00,false
+15,Grace Lindqvist,EU,3300.40,true
